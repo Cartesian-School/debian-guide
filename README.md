@@ -1,4 +1,4 @@
-# Debian Installation and Configuration Guide for Server and Workstation
+# Debian Installation and Configuration Guide Server and Workstation
 
 ---
 
